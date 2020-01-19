@@ -10,7 +10,7 @@
     "node-red",
     "amqp",
     "rabbitmq",
-    "amqp-ts"
+    "gitlab.com/hermes-ascendant/amqp-ts"
   ],
   "node-red": {
     "nodes": {
